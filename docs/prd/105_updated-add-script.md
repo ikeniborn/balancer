@@ -1,6 +1,18 @@
-# 5. Обновленный скрипт добавления сервиса
+---
+title: "Обновленный скрипт добавления сервиса v2.1"
+section: "5"
+version: "2.1"
+category: "automation"
+updated: "2025-11-06"
+tags: [bash, script, automation, service-management, v2.1, direct-mount, frontend, extended]
+related:
+  - 007b_add-service-script.md
+  - 100_extension-index.md
+  - 101_direct-mount-overview.md
+  - 106_updated-docker-compose.md
+---
 
-## 5. Обновленный скрипт добавления
+# 5. Обновленный скрипт добавления сервиса
 
 ```bash
 #!/bin/bash
@@ -480,4 +492,6 @@ echo -e "${BLUE}═════════════════════�
 ```
 
 ---
+
+[◀ Назад к оглавлению](INDEX.md) | [Следующий раздел ▶](106_updated-docker-compose.md)
 

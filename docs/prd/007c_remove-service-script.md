@@ -87,7 +87,6 @@ else
 fi
 ```
 
-### 6.4 Health Check скрипт
+---
 
-```bash
-#!/bin/bash
+[◀ Назад к оглавлению](INDEX.md) | [Следующий раздел ▶](007d_health-monitoring.md)

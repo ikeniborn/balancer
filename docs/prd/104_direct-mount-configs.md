@@ -244,3 +244,4 @@ server {
 
 ---
 
+[◀ Назад к оглавлению](INDEX.md) | [Следующий раздел ▶](105_updated-add-script.md)

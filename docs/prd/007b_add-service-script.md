@@ -1,5 +1,20 @@
+---
+title: "Скрипт добавления сервиса"
+section: "6.2"
+version: "2.0"
+category: "automation"
+updated: "2025-11-06"
+tags: [bash, script, automation, service-management, nginx, certbot, ssl]
+related:
+  - 007a_init-script.md
+  - 007c_remove-service-script.md
+  - 105_updated-add-script.md
+  - 008_deployment.md
+---
+
 # 6.2 Скрипт добавления сервиса
 
+```bash
 # /opt/balancer/scripts/add-service.sh
 
 set -e
@@ -237,7 +252,6 @@ fi
 echo -e "\nЛоги: ${YELLOW}tail -f $PROJECT_DIR/logs/nginx/${SERVICE_NAME}-*.log${NC}"
 ```
 
-### 6.3 Скрипт удаления сервиса
+---
 
-```bash
-#!/bin/bash
+[◀ Назад к оглавлению](INDEX.md) | [Следующий раздел ▶](007c_remove-service-script.md)

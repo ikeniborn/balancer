@@ -65,3 +65,4 @@ graph TB
 
 ---
 
+[◀ Назад к оглавлению](INDEX.md) | [Следующий раздел ▶](102_updated-structure.md)

@@ -118,3 +118,4 @@ sudo ufw status numbered
 
 ---
 
+[◀ Назад к оглавлению](INDEX.md) | [Следующий раздел ▶](010_troubleshooting.md)

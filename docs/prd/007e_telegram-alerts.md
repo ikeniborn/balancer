@@ -32,6 +32,6 @@ curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" 
 exit $?
 ```
 
-### 6.6 Healthcheck Dockerfile
+---
 
-```dockerfile
+[◀ Назад к оглавлению](INDEX.md) | [Следующий раздел ▶](007f_healthcheck-dockerfile.md)

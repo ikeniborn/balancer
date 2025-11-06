@@ -117,3 +117,6 @@ http {
     include /etc/nginx/conf.d/*.conf;
 }
 
+---
+
+[◀ Назад к оглавлению](INDEX.md) | [Следующий раздел ▶](006c_snippets.md)

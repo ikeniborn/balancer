@@ -1,3 +1,17 @@
+---
+title: "ПРД: Balancer - Frontend Direct Mount Extension"
+section: "extension-index"
+version: "2.1"
+category: "extension"
+updated: "2025-11-06"
+tags: [extension, direct-mount, frontend, static, optimization, v2.1]
+related:
+  - 001_index.md
+  - 101_direct-mount-overview.md
+  - 105_updated-add-script.md
+  - 106_updated-docker-compose.md
+---
+
 # Дополнение к ПРД: Архитектура прямого подключения фронтендов
 
 ## Версия: 2.1 - Frontend Direct Mount Extension
@@ -18,3 +32,4 @@
 
 ---
 
+[◀ Назад к оглавлению](INDEX.md) | [Следующий раздел ▶](101_direct-mount-overview.md)

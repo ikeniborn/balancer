@@ -21,8 +21,6 @@ location ~* \.(jpg|jpeg|png|gif|ico|css|js|svg|woff|woff2|ttf|eot|otf|webp|avif)
 }
 ```
 
-### 5.4 Шаблоны конфигураций сервисов
-
 #### 5.4.1 FastAPI сервис
 
 ```nginx
@@ -252,3 +250,7 @@ server {
 #### 5.4.3 TCP Stream для баз данных
 
 ```nginx
+
+---
+
+[◀ Назад к оглавлению](INDEX.md) | [Следующий раздел ▶](006e_default-config.md)

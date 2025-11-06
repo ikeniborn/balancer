@@ -39,8 +39,6 @@ server {
 # ufw allow from 192.168.1.0/24 to any port 5984 proto tcp
 ```
 
-### 5.5 Default конфигурация
-
 ```nginx
 # /opt/balancer/nginx/conf.d/default.conf
 
@@ -79,3 +77,4 @@ server {
 
 ---
 
+[◀ Назад к оглавлению](INDEX.md) | [Следующий раздел ▶](007a_init-script.md)

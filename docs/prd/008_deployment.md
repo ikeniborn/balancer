@@ -1,6 +1,18 @@
-# 7. Развертывание
+---
+title: "Развертывание системы"
+section: "7"
+version: "2.0"
+category: "deployment"
+updated: "2025-11-06"
+tags: [deployment, installation, server-setup, docker, scripts]
+related:
+  - 006a_docker-compose.md
+  - 007a_init-script.md
+  - 007b_add-service-script.md
+  - 009_operations.md
+---
 
-## 7. Развертывание
+# 7. Развертывание
 
 ### 7.1 Подготовка сервера
 
@@ -69,4 +81,6 @@ curl -I https://api.example.ru
 ```
 
 ---
+
+[◀ Назад к оглавлению](INDEX.md) | [Следующий раздел ▶](009_operations.md)
 

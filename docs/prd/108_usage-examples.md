@@ -76,3 +76,5 @@ ls -lh /opt/balancer/deployments/myapp/
 
 ---
 
+[◀ Назад к оглавлению](INDEX.md) | [Следующий раздел ▶](109_comparison-migration.md)
+

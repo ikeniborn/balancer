@@ -1,8 +1,18 @@
+---
+title: "Docker Compose конфигурация"
+section: "5.1"
+version: "2.0"
+category: "configuration"
+updated: "2025-11-06"
+tags: [docker-compose, yaml, configuration, nginx, certbot, healthcheck, networks, volumes]
+related:
+  - 003_architecture.md
+  - 006b_nginx-main-config.md
+  - 007a_init-script.md
+  - 008_deployment.md
+---
+
 # 5.1 Docker Compose
-
-## 5. Конфигурации
-
-### 5.1 Docker Compose
 
 ```yaml
 # /opt/balancer/docker-compose.yml
@@ -109,6 +119,6 @@ services:
       - "com.balancer.description=Health Monitor"
 ```
 
-### 5.2 Nginx главный конфиг
+---
 
-```nginx
+[◀ Назад к оглавлению](INDEX.md) | [Следующий раздел ▶](006b_nginx-main-config.md)

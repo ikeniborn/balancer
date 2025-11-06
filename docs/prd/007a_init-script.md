@@ -1,8 +1,17 @@
+---
+title: "Скрипт инициализации системы"
+section: "6.1"
+version: "2.0"
+category: "automation"
+updated: "2025-11-06"
+tags: [bash, script, automation, initialization, setup, docker, ufw, fail2ban]
+related:
+  - 006a_docker-compose.md
+  - 007b_add-service-script.md
+  - 008_deployment.md
+---
+
 # 6.1 Скрипт инициализации
-
-## 6. Скрипты автоматизации
-
-### 6.1 Скрипт инициализации
 
 ```bash
 #!/bin/bash
@@ -396,7 +405,6 @@ main() {
 main
 ```
 
-### 6.2 Скрипт добавления сервиса
+---
 
-```bash
-#!/bin/bash
+[◀ Назад к оглавлению](INDEX.md) | [Следующий раздел ▶](007b_add-service-script.md)

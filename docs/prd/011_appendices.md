@@ -323,3 +323,5 @@ du -sh /opt/balancer/logs/*
 
 ---
 
+[◀ Назад к оглавлению](INDEX.md) | [Следующий раздел ▶](012_glossary.md)
+

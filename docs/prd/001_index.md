@@ -1,3 +1,16 @@
+---
+title: "ПРД: Балансировщик и Reverse Proxy Balancer"
+section: "index"
+version: "2.0"
+category: "overview"
+updated: "2025-11-06"
+tags: [index, overview, toc, nginx, reverse-proxy, docker]
+related:
+  - INDEX.md
+  - 002_executive-summary.md
+  - 003_architecture.md
+---
+
 # ПРД: Балансировщик и Reverse Proxy "Balancer"
 
 ## Версия документа: 2.0 FINAL
@@ -21,3 +34,5 @@
 10. [Приложения](#10-приложения)
 
 ---
+
+[◀ Назад к оглавлению](INDEX.md) | [Следующий раздел ▶](002_executive-summary.md)

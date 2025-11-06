@@ -1,3 +1,16 @@
+---
+title: "Executive Summary"
+section: "1"
+version: "2.0"
+category: "overview"
+updated: "2025-11-06"
+tags: [executive-summary, overview, goals, metrics, services]
+related:
+  - 001_index.md
+  - 003_architecture.md
+  - 004_technical-requirements.md
+---
+
 # 1. Executive Summary
 
 ### 1.1 Цель проекта
@@ -33,3 +46,5 @@
 - Максимальное количество одновременных пользователей: **50**
 
 ---
+
+[◀ Назад к оглавлению](INDEX.md) | [Следующий раздел ▶](003_architecture.md)

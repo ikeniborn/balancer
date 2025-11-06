@@ -52,3 +52,4 @@ flowchart TD
 
 ---
 
+[◀ Назад к оглавлению](INDEX.md) | [Следующий раздел ▶](104_direct-mount-configs.md)

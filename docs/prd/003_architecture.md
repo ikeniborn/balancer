@@ -1,3 +1,18 @@
+---
+title: "Архитектура системы"
+section: "2"
+version: "2.0"
+category: "architecture"
+updated: "2025-11-06"
+tags: [architecture, mermaid, diagrams, docker, nginx, ssl, networks, monitoring]
+related:
+  - 001_index.md
+  - 002_executive-summary.md
+  - 004_technical-requirements.md
+  - 006a_docker-compose.md
+  - 008_deployment.md
+---
+
 # 2. Архитектура системы
 
 ### 2.1 Общая схема
@@ -281,3 +296,5 @@ flowchart TD
 ```
 
 ---
+
+[◀ Назад к оглавлению](INDEX.md) | [Следующий раздел ▶](004_technical-requirements.md)

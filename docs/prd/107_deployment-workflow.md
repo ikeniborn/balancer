@@ -172,3 +172,4 @@ bash "$PROJECT_DIR/scripts/telegram-alert.sh" \
 
 ---
 
+[◀ Назад к оглавлению](INDEX.md) | [Следующий раздел ▶](108_usage-examples.md)

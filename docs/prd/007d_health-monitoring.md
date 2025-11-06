@@ -127,7 +127,6 @@ main() {
 main
 ```
 
-### 6.5 Telegram Alert скрипт
+---
 
-```bash
-#!/bin/bash
+[◀ Назад к оглавлению](INDEX.md) | [Следующий раздел ▶](007e_telegram-alerts.md)
