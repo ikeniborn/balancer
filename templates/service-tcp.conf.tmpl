@@ -1,0 +1,22 @@
+# /opt/balancer/templates/service-tcp.conf.tmpl
+# Шаблон для TCP stream конфигураций (базы данных)
+# Этот блок добавляется в /opt/balancer/nginx/conf.d/streams.conf
+
+# TCP Stream для {SERVICE_NAME}
+upstream {SERVICE_NAME}_tcp {
+    server {BACKEND_HOST}:{BACKEND_PORT} max_fails=3 fail_timeout=30s;
+}
+
+server {
+    listen {EXTERNAL_PORT};
+    proxy_pass {SERVICE_NAME}_tcp;
+
+    # Таймауты
+    proxy_connect_timeout 10s;
+    proxy_timeout 600s;
+
+    # IP фильтрация (опционально, раскомментировать при необходимости)
+    # allow 192.168.1.0/24;
+    # allow 10.0.0.0/8;
+    # deny all;
+}
